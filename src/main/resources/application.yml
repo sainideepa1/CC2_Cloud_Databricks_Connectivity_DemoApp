@@ -1,0 +1,10 @@
+server:
+  port: 8085
+
+config:
+ azure-env: dev
+ orion-env: non-prod
+
+logging:
+  level:
+    root: DEBUG
